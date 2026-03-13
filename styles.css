@@ -1,5 +1,5 @@
 body{ 
-background-color:#383131 ;
+background-color:#000000 ;
 color:#fff;
 font-family: 'Times New Roman', Times, serif;
 }
@@ -10,7 +10,7 @@ line-height: 2.25em;
 #container{
     width: 700px;
     margin:0 auto;
-    background-color: #a52929;
+    background-color: #b81515;
     padding-left: double rgb(0, 0, 0) 5px;
     padding-right: double rgb(0, 0, 0) 5px;
 }
