@@ -10,9 +10,9 @@ line-height: 2.25em;
 #container{
     width: 700px;
     margin:0 auto;
-    background-color: #383131;
-    padding-left: double white 5px;
-    padding-right: double white 5px;
+    background-color: #a52929;
+    padding-left: double rgb(0, 0, 0) 5px;
+    padding-right: double rgb(0, 0, 0) 5px;
 }
 img{
     width: 300px;
