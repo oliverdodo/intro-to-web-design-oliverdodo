@@ -7,7 +7,13 @@ p{
 line-height: 2.25em;
 }
 
-
+#container{
+    width: 700px;
+    margin:0 auto;
+    background-color: #383131;
+    padding-left: double white 5px;
+    padding-right: double white 5px;
+}
 img{
     width: 300px;
 float:left;
